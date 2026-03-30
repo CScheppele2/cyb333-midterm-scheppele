@@ -1,0 +1,12 @@
+cyb333-midterm/
+│
+├── socket_connection/
+│   ├── server.py
+│   ├── client.py
+│   └── README.md
+│
+├── port_scanner/
+│   ├── port_scanner.py
+│   └── README.md
+│
+└── screenshots/
